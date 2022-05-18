@@ -4,5 +4,5 @@ Completa los siguientes ejercicios.
 
 ## Solución
 
-[Antonio Serrano](https://github.com/tonisj98/array-playground-javascript) 
-[Javier Fernandez](https://github.com/thebadjavi/array-playground-javascript)
+[Antonio Serrano](https://github.com/tonisj98/array-playground-javascript)  
+[Fabián Taranto](https://github.com/fataranto/array-playground-javascript)
